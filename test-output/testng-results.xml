@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-06T22:19:19 EET" name="Default suite" finished-at="2024-06-06T22:19:28 EET" duration-ms="8526">
+    <groups>
+    </groups>
+    <test started-at="2024-06-06T22:19:19 EET" name="Default test" finished-at="2024-06-06T22:19:28 EET" duration-ms="8526">
+      <class name="TeatCasesLoginAndArrangedItems">
+        <test-method is-config="true" signature="MySetup()[pri:0, instance:TeatCasesLoginAndArrangedItems@1c9f0a20]" started-at="2024-06-06T22:19:19 EET" name="MySetup" finished-at="2024-06-06T22:19:24 EET" duration-ms="4440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MySetup -->
+        <test-method signature="LoginTest()[pri:1, instance:TeatCasesLoginAndArrangedItems@1c9f0a20]" started-at="2024-06-06T22:19:24 EET" name="LoginTest" finished-at="2024-06-06T22:19:26 EET" duration-ms="1626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method signature="VerifyProductsElementIsThere()[pri:2, instance:TeatCasesLoginAndArrangedItems@1c9f0a20]" started-at="2024-06-06T22:19:26 EET" name="VerifyProductsElementIsThere" description="Test Products element" finished-at="2024-06-06T22:19:26 EET" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyProductsElementIsThere -->
+        <test-method signature="SortingItems()[pri:3, instance:TeatCasesLoginAndArrangedItems@1c9f0a20]" started-at="2024-06-06T22:19:26 EET" name="SortingItems" finished-at="2024-06-06T22:19:28 EET" duration-ms="2309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortingItems -->
+      </class> <!-- TeatCasesLoginAndArrangedItems -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
